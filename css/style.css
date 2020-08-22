@@ -1,0 +1,435 @@
+.navbar-brand img{
+	width: 150px;
+	filter: invert(1); 
+}
+header {
+
+	background: #37517E;
+		background-image: url(../images/logo2.png);
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: right center;
+}
+.content{
+	padding-top: 120px;
+	padding-bottom: 100px;
+}
+header h1{
+	
+font-size: 40px;
+	
+font-weight: 500;
+	line-height: 1.3;
+margin-bottom: 30px;
+}
+header p{
+	line-height: 1.8;
+	font-weight: 400;
+/* margin-top: 30px; */
+
+margin-bottom: 30px;
+}
+.blue {
+	background: #47B2E4 !important;
+}
+.content a{
+
+}
+.btn:hover{
+box-shadow: 0 0.0rem 0rem rgba(0, 0, 0, 0.0) !important;
+color: white;
+}
+.btn i{
+	background: #37517E;
+	color: #47b2e4;
+	font-size: 40px;
+}
+a.btn{
+
+	display: inline-flex;
+	align-items: center;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255);
+    font-weight: 450;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus
+{
+    color: rgb(71 178 228) !important;
+}
+
+.support{
+    padding: 20px;
+    width: 250px;
+    height: 250px;
+}
+ .Global h3 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 	30px;
+}
+.Global p {
+    font-size: 15px;
+    line-height: 2.0
+}
+.Global i{
+	color: #47b2e4;
+	font-size: 60px;
+
+}
+.Global h2 {
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 	30px;
+}
+.range a{
+font-weight: 500;
+color: #47b2e4;
+}
+.content2 h1{
+	
+font-size: 40px;
+	
+font-weight: 600;
+	line-height: 1.3;
+margin-bottom: 30px;
+}
+.content2 p{
+	line-height: 1.8;
+	font-weight: 400;
+	line-height: 1.5;
+letter-spacing: 1px;
+}
+
+.content2 a{
+	color: black;
+	color: #47b2e4;
+}
+.trusted{
+	background-color: #EAF5FC; 
+	background-image: url(../images/landing.png);
+		background-repeat: no-repeat;
+		background-size: 50%;
+		background-position: left center;
+}
+.content3 h1{
+font-size: 45px;
+margin-bottom: 50px;
+}
+.content3 p{
+font-size: 20px;
+}
+.content3 a {
+margin-top: 50px;
+}
+.check h1{
+	font-size: 30px;
+	font-weight: 650;
+	line-height: 1.8;
+
+}
+.question-sec{
+	padding-top: 50px;
+}
+.question-sec a{
+display: block;
+padding: 15px 0;
+}
+.check a{
+text-decoration: none;
+color: black;
+font-weight: 600;
+font-size: 20px;
+}
+.check a i{
+	color: black;
+	font-size: 30px;
+}
+.Features{
+		background-color: #EAF5FC; 
+}
+.section{
+	margin-top: 25px;
+    padding: 20px;
+    width: 300px;
+    height: 250px;
+}
+.section a i{
+	margin-left: 15px;
+font-size: 50px;
+}
+.section h3{
+font-size: 25px;
+margin: 30px 0;
+}
+.section p{
+	line-height: 1.7;
+	font-size: 18px;
+margin-bottom: 15px;
+}
+.Features{
+	padding-bottom: 3rem !important;
+    padding-top: 3rem !important;
+}
+.features h2{
+	padding-top: 30px;
+font-size: 40px;
+font-weight: 600;
+margin-bottom: 30px;
+}
+.features p{
+
+}
+.solution{
+
+	background: #37517E;
+}
+.solution  .btn{
+    color: white;
+    font-size: 30px;
+    margin-top: 50px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+ 
+}
+.revolion{
+padding: 140px 0;
+    background: #EAF5FC !important;
+}
+
+article, aside,
+
+.revolion .col-md-4 {
+    border-right: 1px solid;
+    margin-right: 25px;
+}
+.revolion h2 {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    line-height: 1.6;
+    color: #000000ad;
+    }
+.revolion p {
+    font-size: 16px;
+    line-height: 2.0;
+    color: #386384;
+    margin-bottom: 50px
+
+}
+@media (max-width: 1399px){
+	header{
+		background-size: 650px;
+	}
+.trusted{
+	background-size: 40%;
+}
+.content3 h1{
+font-size: 40px;
+margin-bottom: 50px;
+}
+.content3 p{
+font-size: 18px;
+}
+.content3 a {
+margin-top: 50px;
+}
+.question-sec a{
+display: block;
+padding: 12px 0;
+}
+
+}
+@media (max-width: 1199px){
+	header{
+		background-size: 550px;
+	}
+	header h1{
+		font-size: 35px;
+	}
+.trusted{
+	background-size: 50%;
+}
+header p {
+	font-size: 11px;
+}
+.support {
+
+    padding: 20px;
+    width: 220px;
+    height: 248px;
+}
+.Global i {
+    color: #47b2e4;
+    font-size: 40px;
+    }
+    .Global h3 {
+    font-size: 19px;
+    font-weight: 600;
+    margin-top: 22px;
+    margin-bottom: 28px;
+}
+.Global p {
+    font-size: 14px;
+    line-height: 2.0;
+}
+.range{
+	margin-left: 50px;
+}
+.content3 h1{
+font-size: 39px;
+
+margin-bottom: 50px;
+}
+.content3 p{
+font-size: 18px;
+}
+.question-sec a{
+display: block;
+padding: 8px 0;
+}
+.check a{
+font-size: 15px;
+}
+.check h1{
+
+	font-weight: 550;
+	font-size: 25px;
+	line-height: 1.5;
+
+}
+
+}
+@media (max-width: 991px){
+header {
+    background-size: 400px;
+}
+	header h1 {
+    font-size: 30px;
+}
+header p {
+	font-size: 10px;
+}
+.py-3 {
+    padding-top: 8px!important;
+    padding-bottom: 8px!important;
+}
+.px-4 {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+}
+.Global p {
+    font-size: 15px;
+    line-height: 1.7;
+}
+.Global h3 {
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.support {
+    padding: 20px;
+    width: 230px;
+    height: 256px;
+}
+.range{
+	margin: 0;
+}
+.range p{
+    font-size: 17px;
+    line-height: 1.7;
+}
+.trusted{
+	background-size: 40%;
+}
+.content3 h1{
+font-size: 30px;
+
+margin-bottom: 40px;
+}
+.content3 p{
+font-size: 15px;
+}
+.content3 a {
+margin-top: 30px;
+}
+.check h1{
+	text-align: center;
+	font-size: 40px;
+}
+.section {
+    margin-top: 25px;
+    padding: 20px;
+    width: 210px;
+    height: 250px;
+}
+.section p {
+    
+    font-size: 13px;
+}
+.section h3 {
+    margin: 20px 0;
+    font-size: 25px;
+    }
+@media (max-width: 767px){
+header{
+		background-image: url();
+}
+header h1 {
+    font-size: 30px;
+}
+header p {
+    font-size: 13px;
+}
+.px-4 {
+    padding-right: 1.5rem!important;
+    padding-left: 1.5rem!important;
+}
+.py-3 {
+    padding-top: 12px!important;
+    padding-bottom: 12px!important;
+}
+.content{
+	text-align: center;
+}
+.trusted{
+	background-image: url();
+}
+.content3 h1{
+font-size: 40px;
+
+margin-bottom: 40px;
+}
+.content3 p{
+font-size: 19px;
+}
+.content3 a {
+margin-top: 30px;
+}
+.check a{
+font-size: 20px;
+}
+.check h1{
+
+	font-weight: 550;
+	font-size: 40px;
+	line-height: 1.5;
+
+}
+.revolion .col-md-4 {
+    border-right: 1px solid;
+    margin-right: 25px;
+}
+}
+@media (max-width: 575px){
+	.revolion .col-md-4 {
+    border-right: 1px solid;
+    margin-right: 25px;
+}
+	
+}
